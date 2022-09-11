@@ -9,6 +9,9 @@ a.up {
 li{
 	color: #000;
 }
+a{
+	color: rgb(236, 53, 227);
+}
 
 /* =============================== */
 
@@ -42,6 +45,9 @@ h3{
 
 .roasting-methods-text * {
 	color: blueviolet;
+}
+.roasting-methods-text a{
+	color: rgb(236, 53, 227);
 }
 .roasting-methods-text > p {
 	color: darkgreen;
