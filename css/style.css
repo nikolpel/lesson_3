@@ -1,0 +1,55 @@
+* {
+	color: rgb(102, 102, 102);
+}
+
+
+a.up {
+	color: red;
+}
+li{
+	color: #000;
+}
+
+/* =============================== */
+
+h1 {
+	color: #000;
+}
+h2 {
+	color: rgb(23, 23, 109);
+}
+h3{
+	color: rgb(13, 126, 126);
+}
+
+
+.navigation-list a{
+	color: rgb(115, 40, 185);
+}
+
+/* ================================== */
+
+.preface + p {
+	color: rgb(158, 28, 28);
+}
+
+.roasting-process span{
+	color: rgb(166, 177, 18);
+}
+.roasting-process-list li{
+	color: gold;
+}
+
+.roasting-methods-text * {
+	color: blueviolet;
+}
+.roasting-methods-text > p {
+	color: darkgreen;
+}
+
+.roasting-methods-text ~ p {
+	color: darkgreen;
+}
+
+/* ========================================== */
+
